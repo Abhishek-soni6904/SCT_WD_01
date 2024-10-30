@@ -8,6 +8,7 @@ The **InfernoBook** landing page was built as part of an internship project with
 
 ### Key Features
 
+- **Persistent Navbar**: The navigation bar remains visible throughout the website, allowing users to access all sections easily from anywhere on the page.
 - **Navigation Menu**: Responsive navigation with a hamburger menu for seamless browsing on different devices.
 - **Dynamic Image Slider**: Interactive slider showcasing multiple views of the InfernoBook.
 - **Feature Cards**: Highlighting key aspects like performance, display, and instant boot functionality.
